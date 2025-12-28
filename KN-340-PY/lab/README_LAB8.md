@@ -276,12 +276,11 @@ run-tests:
 
 **Значок статусу робочого потоку:**
 
-![Run Tests](https://github.com/Angelina2031Krasuliak/testing-PY/actions/workflows/python-app.yml/badge.svg)
-
+![Run Tests](https://github.com/Sp1ritGuard/KN-340_PY/actions/workflows/python-app.yml/badge.svg)
 
 **Значок статистики покриття:**
 
-[![codecov](https://codecov.io/github/Angelina2031Krasuliak/testing-PY/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/github/Angelina2031Krasuliak/testing-PY)
+[![codecov](https://codecov.io/github/Sp1ritGuard/KN-340_PY/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/github/Sp1ritGuard/KN-340_PY)
 
 ---
 
@@ -524,3 +523,4 @@ python -c "import yaml; yaml.safe_load(open('.github/workflows/python-app.yml'))
 
 
 ---
+
