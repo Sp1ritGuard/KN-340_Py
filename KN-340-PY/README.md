@@ -3,7 +3,7 @@
 | Badge | Status |
 |-------|--------|
 | **Top Language** | ![GitHub top language](https://img.shields.io/github/languages/top/Sp1ritGuard/KN-340_PY?color=green) |
-| **Workflow Status** | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Sp1ritGuard/KN-340_PY/python-app.yml?style=for-the-badge) |
+|| **Workflow Status** | ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/BobasB/2025_kn340_test/python-app.yml?style=for-the-badge) |
 | **Tests** | ![Run Tests](https://github.com/Sp1ritGuard/KN-340_PY/actions/workflows/python-app.yml/badge.svg) |
 | **Code Coverage** | [![codecov](https://codecov.io/github/Sp1ritGuard/KN-340_PY/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/github/Sp1ritGuard/KN-340_PY) |
 
@@ -17,4 +17,5 @@ This repository uses GitHub Actions for automated testing and project management
 - **Status Reporting**: Test results are posted as comments on related issues
 
 For detailed information about the GitHub Actions and Projects integration, see [GitHub Actions Integration Guide](.github/GITHUB_ACTIONS_INTEGRATION.md).
+
 
