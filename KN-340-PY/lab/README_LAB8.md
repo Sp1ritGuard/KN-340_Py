@@ -1,4 +1,4 @@
-# Звіт до Лабораторної Роботи №2
+# Звіт до Лабораторної Роботи №8
 
 ## Тема: _Автоматизація CI/CD через GitHub Actions_ 
 
@@ -521,5 +521,6 @@ poetry run coverage html
 python -m pip install pyyaml
 python -c "import yaml; yaml.safe_load(open('.github/workflows/python-app.yml'))"
 ```
+
 
 ---
